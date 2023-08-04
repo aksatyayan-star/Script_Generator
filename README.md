@@ -2,8 +2,11 @@
 
 Script Generator using Langchain
 
-<img width="1096" alt="Screenshot 2023-08-05 at 2 52 41 AM" src="https://github.com/aksatyayan-star/Script_Generator/assets/67166146/7ce19552-d877-47c9-af8a-a734a5310466">
+<img width="1792" alt="Screenshot 2023-08-05 at 2 56 09 AM" src="https://github.com/aksatyayan-star/Script_Generator/assets/67166146/997dcd27-fa33-4b00-a08b-197781e14246">
 
-<img width="898" alt="Screenshot 2023-08-05 at 2 53 04 AM" src="https://github.com/aksatyayan-star/Script_Generator/assets/67166146/6a719086-8cb4-464a-b589-d74d98e73c6e">
 
-<img width="885" alt="Screenshot 2023-08-05 at 2 53 16 AM" src="https://github.com/aksatyayan-star/Script_Generator/assets/67166146/6d976bb6-87c3-44a1-b018-75bedd312e2c">
+<img width="1792" alt="Screenshot 2023-08-05 at 2 56 21 AM" src="https://github.com/aksatyayan-star/Script_Generator/assets/67166146/7a4236d5-38fc-49f5-b9cc-0174d0367959">
+
+
+<img width="1792" alt="Screenshot 2023-08-05 at 2 56 35 AM" src="https://github.com/aksatyayan-star/Script_Generator/assets/67166146/2159c1b4-b1a2-447f-9c53-66bbebad71ce">
+
